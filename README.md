@@ -39,13 +39,8 @@ int main() {
 ````
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ad8eee99-bd25-4f89-a5f2-c7b6f98ddd85)
 
-```
-Enter the principal amount: 500000
-Enter the annual rate of interest: 7.5
-Enter the number of months: 240
-The EMI for the loan is: 4242.93
-```
 
 ## RESULT
 
@@ -89,9 +84,8 @@ int main() {
 ```
 ## OUTPUT
 
-```
-Fibonacci Series: 0 1 1 2 3 5
-```
+![image](https://github.com/user-attachments/assets/bef3c5bf-fec4-43eb-91ca-e88fbcdb6ee0)
+
 
 ## RESULT
 Thus the program to generate the Fibonacci series for the value 6 has been executed successfully.
@@ -131,12 +125,8 @@ int main() {
 ```
 ## OUTPUT
 
-```
-Enter the number of elements: 5
-Enter 5 elements:
-10 20 30 40 50
-The last element is: 50
-```
+![image](https://github.com/user-attachments/assets/4ff26f1d-958b-42d6-80e9-e018c229d8e7)
+
 ## RESULT
 Thus the program to read n elements as input and print the last element of the array has been executed successfully.
  
@@ -184,12 +174,8 @@ int main() {
 ```
 ## OUTPUT
 
-```
-Enter the number of elements: 5
-Enter 5 elements:
-1 -3 5 7 -2
-Total number of positive elements: 3
-```
+![image](https://github.com/user-attachments/assets/054b90c5-cb93-4e0e-a389-12cfd8657ef7)
+
 ## RESULT
 Thus the program to count total number of positive elements in an array has been executed successfully.
 
@@ -250,13 +236,8 @@ int main() {
 }
 ```
 ## Output:
-```
-Enter the size of the array: 5
-Enter 5 elements:
-1 2 3 4 5
-Updated array:
-1 E 3 E 5
-```
+![image](https://github.com/user-attachments/assets/42de0073-1260-4e3a-a672-201fab9d0f04)
+
 
 ## Result:
 
